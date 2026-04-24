@@ -3,11 +3,11 @@ AI CHATBOT
 🧠 Chatbot Logic
 
 The bot responds based on simple keyword matching:
-1. "hi / hello" → greeting response
-2."how are you" → status reply
-3. "name" → bot introduction
-4. "joke" → random joke
-5. otherwise → default fallback message
+1. "hi / hello" → greeting response/N
+2."how are you" → status reply/N
+3. "name" → bot introduction/N
+4. "joke" → random joke/N
+5. otherwise → default fallback message/N
 
 🔮 Future Improvements
 1. Add NLP-based responses
